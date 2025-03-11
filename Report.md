@@ -36,9 +36,9 @@ That's not where our problems end though! Since we are really observing an arcle
 ![image](https://github.com/user-attachments/assets/933b2457-db86-434a-b69c-afa75c38ab42)  
 
 Here's a diagram of all the components you need to determine the velocity of a star! The proper motion is just an angle the star sweeps over a period of time and is usually very small (on the order of milli arc seconds/yr), so we can safely use the small angle approximation:  
-$\tan(\mu) = \frac{V_{transverse}}{d} \Rightarrow \mu = \frac{V_{transverse}}{d} \Rightarrow \mud = V_{transverse}$  
+$\tan(\mu) = \frac{V_{transverse}}{d} \Rightarrow \mu = \frac{V_{transverse}}{d} \Rightarrow \mu d = V_{transverse}$  
 
 Note that $V_transverse$ can be componentized using the angle from the x and y components of proper motion.  
 
 This still isn't in MKS units, so we apply a conversion factor of 4.74 to convert it to km/s. So our final formula is:
-$V_{transverse = 4.74}\mud [V_{transverse}] = [m]/[s]$  
+$V_{transverse} = 4.74 \mu d, [V_{transverse}] = \frac{[km]}{[s]}$  
