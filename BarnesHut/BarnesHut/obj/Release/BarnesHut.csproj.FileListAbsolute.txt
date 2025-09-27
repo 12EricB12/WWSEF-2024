@@ -1,0 +1,11 @@
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Release\BarnesHut.exe.config
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Release\BarnesHut.exe
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Release\BarnesHut.pdb
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Release\BarnesHut.csproj.AssemblyReference.cache
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Release\BarnesHut.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Release\BarnesHut.csproj.CoreCompileInputs.cache
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Release\BarnesHut.csproj.CopyComplete
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Release\BarnesHut.exe
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Release\BarnesHut.pdb

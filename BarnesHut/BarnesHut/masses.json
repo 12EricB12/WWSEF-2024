@@ -1,0 +1,52 @@
+[
+    {
+        "solutionID": "A",
+        "rX": -15,
+        "rY": 25,
+        "rZ": 30,
+        "velX": -5,
+        "velY": 5,
+        "velZ": 2,
+        "mass": 10
+    },
+    {
+        "solutionID": "B",
+        "rX": 10,
+        "rY": -30,
+        "rZ": 20,
+        "velX": -2,
+        "velY": -10,
+        "velZ": 1.5,
+        "mass": 10
+    },
+    {
+        "solutionID": "C",
+        "rX": -15,
+        "rY": 25,
+        "rZ": -20,
+        "velX": 7,
+        "velY": -5,
+        "velZ": 4,
+        "mass": 15
+    },
+    {
+        "solutionID": "D",
+        "rX": 14,
+        "rY": -20,
+        "rZ": -26,
+        "velX": -7,
+        "velY": 4,
+        "velZ": -5,
+        "mass": 10
+    },
+    {
+        "solutionID": "E",
+        "rX": -20,
+        "rY": -20,
+        "rZ": 20,
+        "velX": -1.0,
+        "velY": 0.5,
+        "velZ": 0.5,
+        "mass": 15
+    }
+]

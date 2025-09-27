@@ -1,0 +1,24 @@
+C:\Users\Tim\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\bin\Debug\BarnesHut.exe.config
+C:\Users\Tim\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\bin\Debug\BarnesHut.exe
+C:\Users\Tim\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\bin\Debug\BarnesHut.pdb
+C:\Users\Tim\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\obj\Debug\BarnesHut.exe
+C:\Users\Tim\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\obj\Debug\BarnesHut.pdb
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\bin\Debug\BarnesHut.exe.config
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\bin\Debug\BarnesHut.exe
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\bin\Debug\BarnesHut.pdb
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\obj\Debug\BarnesHut.csprojAssemblyReference.cache
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\obj\Debug\BarnesHut.csproj.CoreCompileInputs.cache
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\obj\Debug\BarnesHut.exe
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\obj\Debug\BarnesHut.pdb
+C:\Users\Tim\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 3\Barnes-Hut\BarnesHut\BarnesHut\obj\Debug\BarnesHut.csprojResolveAssemblyReference.cache
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Debug\BarnesHut.exe.config
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Debug\BarnesHut.exe
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Debug\BarnesHut.pdb
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Debug\BarnesHut.csproj.AssemblyReference.cache
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Debug\BarnesHut.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Debug\BarnesHut.csproj.CoreCompileInputs.cache
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Debug\BarnesHut.exe
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Debug\BarnesHut.pdb
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ericb\Downloads\Many-Body-Dynamics-Barnes-Hut-main\Many-Body-Dynamics-Barnes-Hut-main\Main code\BarnesHut\BarnesHut\obj\Debug\BarnesHut.csproj.CopyComplete
