@@ -4,7 +4,6 @@ from matplotlib import rcParams
 
 import InputOutput as IO
 
-# array = IO.ReadCSV(r"C:\Users\Ericb\Desktop\Folderception\Final Simulation Results\120000.csv")
 array = IO.ReadCSV(r"animation.csv")
 
 xarray = array[0::4]
@@ -51,4 +50,5 @@ Writer = animation.writers['ffmpeg']
 writer = Writer(fps=60, metadata=dict(artist='Me'), bitrate=1800)
 
 ani.save('adf.mp4', writer=writer)
+
 
