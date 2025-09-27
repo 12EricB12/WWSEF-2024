@@ -6,6 +6,9 @@ I did all SQL and star velocity calculations. All the C# backend (i.e. the entir
 I have an interpretation of the Barnes-Hut simulation on my GitHub, which is written in C# but runs in Unity. Check it out!  
 
 ## Simulation videos
+The rogue planet is denoted as the blue dot.  
+
+**Simulation Information**
 Scale: 1 tick = 1 kpc (~3260 light years! Or about $3.08413226 \cdot 10^{19}$m.)  
 Time elapsed during simulation: 5 million years, 50000 years per frame  
 Velocity measured in parsecs per 10 million years.  
