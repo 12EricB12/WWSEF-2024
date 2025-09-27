@@ -17,7 +17,7 @@ Velocity measured in parsecs per 10 million years.
 **Zoomed out - Diagonal view**  
 [<img src="https://img.youtube.com/vi/7eA42drVUDU/hqdefault.jpg"/>](https://www.youtube.com/embed/7eA42drVUDU)  
 
-**Zoomed out - Full Selected Arc Visible**
+**Zoomed out - Full Selected Arc Visible**  
 [<img src="https://img.youtube.com/vi/Cpn2dO0t_rU/hqdefault.jpg"/>](https://www.youtube.com/embed/Cpn2dO0t_rU)  
 
 **Zoomed in - Different Angles**  
